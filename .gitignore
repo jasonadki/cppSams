@@ -1,0 +1,19 @@
+# Ignore everything
+*
+
+# But descend into directories
+!*/
+
+# And permit certain filetypes
+!*.[Rr]
+!*.css
+!*.txt
+!*.js
+!*.sql
+!*.cpp
+
+# And dotfiles
+!.gitignore
+!.arclint
+!.arcunit
+!.arcconfig
