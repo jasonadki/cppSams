@@ -11,6 +11,7 @@
 !*.js
 !*.sql
 !*.cpp
+!*.hpp
 
 # And dotfiles
 !.gitignore
